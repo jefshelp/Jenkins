@@ -1,0 +1,17 @@
+{
+   "tipo":"DadosCadastrais",
+    "resultado":"OK",
+     "mensagens":null,
+     "pagina":null,
+      "conteudo":
+ {
+"nmCliente":"ADILSON AFONSO TAVARES",
+"emailCliente":"TAVARES@PORTONE.COM.BR",
+"dsProfissao":"autônomo",
+"telCelular":"+55 (11) 999679177",
+"telFixo":null,
+"nmExibicao":"Adilson teste 4",
+"idEstadoCivil":1,
+"dsEstadoCivil":"Solteiro"
+ }
+}

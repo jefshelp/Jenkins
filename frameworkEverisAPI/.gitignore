@@ -1,0 +1,7 @@
+target
+evidencia/*.docx
+.settings
+.project
+.classpath
+src/test/java/runner/RunnerTest.java
+src/test/java/support/JsonToCucumber.java

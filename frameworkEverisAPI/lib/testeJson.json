@@ -1,0 +1,16 @@
+{
+    "userId": 1,
+    "id": 1,
+    "title": "teste title",
+    "body": "teste body",
+    "documents": [
+        {
+            "type": "cpf",
+            "number": "57373640036"
+        },
+        {
+            "type": "rg",
+            "number": "451254871"
+        }
+    ]
+}
